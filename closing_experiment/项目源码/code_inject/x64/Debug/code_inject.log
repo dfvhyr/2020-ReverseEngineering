@@ -1,0 +1,17 @@
+﻿  main.cpp
+c:\users\25073\source\repos\code_inject\code_inject\main.cpp(79): error C2039: “Esp”: 不是“_CONTEXT”的成员
+  c:\program files (x86)\windows kits\8.1\include\um\winnt.h(3563): note: 参见“_CONTEXT”的声明
+c:\users\25073\source\repos\code_inject\code_inject\main.cpp(79): error C2660: “ReadProcessMemory”: 函数不接受 4 个参数
+  c:\program files (x86)\windows kits\8.1\include\um\memoryapi.h(217): note: 参见“ReadProcessMemory”的声明
+c:\users\25073\source\repos\code_inject\code_inject\main.cpp(81): error C2039: “Esp”: 不是“_CONTEXT”的成员
+  c:\program files (x86)\windows kits\8.1\include\um\winnt.h(3563): note: 参见“_CONTEXT”的声明
+c:\users\25073\source\repos\code_inject\code_inject\main.cpp(81): error C2660: “ReadProcessMemory”: 函数不接受 4 个参数
+  c:\program files (x86)\windows kits\8.1\include\um\memoryapi.h(217): note: 参见“ReadProcessMemory”的声明
+c:\users\25073\source\repos\code_inject\code_inject\main.cpp(91): warning C4312: “类型强制转换”: 从“DWORD”转换到更大的“LPVOID”
+c:\users\25073\source\repos\code_inject\code_inject\main.cpp(105): warning C4312: “类型强制转换”: 从“DWORD”转换到更大的“LPVOID”
+c:\users\25073\source\repos\code_inject\code_inject\main.cpp(124): error C2039: “Eip”: 不是“_CONTEXT”的成员
+  c:\program files (x86)\windows kits\8.1\include\um\winnt.h(3563): note: 参见“_CONTEXT”的声明
+c:\users\25073\source\repos\code_inject\code_inject\main.cpp(124): warning C4311: “类型强制转换”: 从“LPVOID”到“DWORD”的指针截断
+c:\users\25073\source\repos\code_inject\code_inject\main.cpp(124): warning C4302: “类型强制转换”: 从“LPVOID”到“DWORD”截断
+  text.cpp
+  正在生成代码...
